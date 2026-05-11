@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Zrutas.Domain.Entities.Nodo
+namespace App.Domain.Entities
 {
     public class ModelNews
     {

@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\proyectos\\App Escritorio WPF C#\\BAckup\\UI-Model_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE836703-E649-4A34-D325-76277F80F794}|ZadintsApp\\App.csproj|d:\\proyectos\\app escritorio wpf c#\\backup\\ui-model_1\\zadintsapp\\app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{EE836703-E649-4A34-D325-76277F80F794}|ZadintsApp\\App.csproj|solutionrelative:zadintsapp\\app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{186250C2-AED1-C574-5E83-39D104F20D04}|ZadintsApp\\App.csproj|d:\\proyectos\\app escritorio wpf c#\\backup\\ui-model_1\\zadintsapp\\components\\views\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186250C2-AED1-C574-5E83-39D104F20D04}|ZadintsApp\\App.csproj|solutionrelative:zadintsapp\\components\\views\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE836703-E649-4A34-D325-76277F80F794}|ZadintsApp\\Zrutas.csproj|d:\\proyectos\\app escritorio wpf c#\\backup\\ui-model_1\\zadintsapp\\ui\\views\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EE836703-E649-4A34-D325-76277F80F794}|ZadintsApp\\Zrutas.csproj|solutionrelative:zadintsapp\\ui\\views\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE836703-E649-4A34-D325-76277F80F794}|ZadintsApp\\Zrutas.csproj|d:\\proyectos\\app escritorio wpf c#\\backup\\ui-model_1\\zadintsapp\\ui\\views\\body\\themeselector.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EE836703-E649-4A34-D325-76277F80F794}|ZadintsApp\\Zrutas.csproj|solutionrelative:zadintsapp\\ui\\views\\body\\themeselector.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{186250C2-AED1-C574-5E83-39D104F20D04}|ZadintsApp\\App.csproj|d:\\proyectos\\app escritorio wpf c#\\backup\\ui-model_1\\zadintsapp\\components\\views\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{186250C2-AED1-C574-5E83-39D104F20D04}|ZadintsApp\\App.csproj|solutionrelative:zadintsapp\\components\\views\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,37 +59,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "App",
-              "DocumentMoniker": "D:\\proyectos\\App Escritorio WPF C#\\BAckup\\UI-Model_1\\ZadintsApp\\App.csproj",
-              "RelativeDocumentMoniker": "ZadintsApp\\App.csproj",
-              "ToolTip": "D:\\proyectos\\App Escritorio WPF C#\\BAckup\\UI-Model_1\\ZadintsApp\\App.csproj",
-              "RelativeToolTip": "ZadintsApp\\App.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-11T15:16:13.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ThemeSelector.xaml",
-              "DocumentMoniker": "D:\\proyectos\\App Escritorio WPF C#\\BAckup\\UI-Model_1\\ZadintsApp\\UI\\Views\\Body\\ThemeSelector.xaml",
-              "RelativeDocumentMoniker": "ZadintsApp\\UI\\Views\\Body\\ThemeSelector.xaml",
-              "ToolTip": "D:\\proyectos\\App Escritorio WPF C#\\BAckup\\UI-Model_1\\ZadintsApp\\UI\\Views\\Body\\ThemeSelector.xaml",
-              "RelativeToolTip": "ZadintsApp\\UI\\Views\\Body\\ThemeSelector.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-11T14:38:22.884Z",
+              "Title": "Dashboard.xaml.cs",
+              "DocumentMoniker": "D:\\proyectos\\App Escritorio WPF C#\\BAckup\\UI-Model_1\\ZadintsApp\\Components\\Views\\Dashboard.xaml.cs",
+              "RelativeDocumentMoniker": "ZadintsApp\\Components\\Views\\Dashboard.xaml.cs",
+              "ToolTip": "D:\\proyectos\\App Escritorio WPF C#\\BAckup\\UI-Model_1\\ZadintsApp\\Components\\Views\\Dashboard.xaml.cs",
+              "RelativeToolTip": "ZadintsApp\\Components\\Views\\Dashboard.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T18:42:03.292Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Dashboard.xaml",
-              "DocumentMoniker": "D:\\proyectos\\App Escritorio WPF C#\\BAckup\\UI-Model_1\\ZadintsApp\\UI\\Views\\Dashboard.xaml",
-              "RelativeDocumentMoniker": "ZadintsApp\\UI\\Views\\Dashboard.xaml",
-              "ToolTip": "D:\\proyectos\\App Escritorio WPF C#\\BAckup\\UI-Model_1\\ZadintsApp\\UI\\Views\\Dashboard.xaml",
-              "RelativeToolTip": "ZadintsApp\\UI\\Views\\Dashboard.xaml",
+              "DocumentMoniker": "D:\\proyectos\\App Escritorio WPF C#\\BAckup\\UI-Model_1\\ZadintsApp\\Components\\Views\\Dashboard.xaml",
+              "RelativeDocumentMoniker": "ZadintsApp\\Components\\Views\\Dashboard.xaml",
+              "ToolTip": "D:\\proyectos\\App Escritorio WPF C#\\BAckup\\UI-Model_1\\ZadintsApp\\Components\\Views\\Dashboard.xaml",
+              "RelativeToolTip": "ZadintsApp\\Components\\Views\\Dashboard.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-11T14:34:07.575Z",
+              "WhenOpened": "2026-05-11T18:42:02.58Z",
               "EditorCaption": ""
             }
           ]

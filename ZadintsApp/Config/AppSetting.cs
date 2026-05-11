@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
-using Zrutas.Domain.Entities.enumerated;
+using App.Domain.Entities;
 
-namespace Zrutas.Config
+namespace App.Config
 {
     public class AppSetting
     {

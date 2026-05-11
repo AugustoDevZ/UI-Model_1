@@ -11,25 +11,22 @@
 
   <ItemGroup>
     <Folder Include="Database\" />
-    <Folder Include="UI\Views\Header\" />
-    <Folder Include="UI\Views\Nav\" />
+    <Folder Include="Components\Layouts\Header\" />
+    <Folder Include="Components\Layouts\Nav\" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="GMap.NET.Core" Version="2.1.7" />
-    <PackageReference Include="GMap.NET.WinPresentation" Version="2.1.7" />
-    <PackageReference Include="NAudio" Version="2.3.0" />
     <PackageReference Include="System.Data.SQLite.Core" Version="1.0.119" />
-    <PackageReference Include="Vosk" Version="0.3.38" />
   </ItemGroup>
 
   <ItemGroup>
     <None Update="Database\UserData.db">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-	<Content Include="Models\**\*">
-		<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-	</Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="C:\Users\AUGUSTO RODRIGUEZ\.nuget\packages\vosk\0.3.38\build\lib\win-x64\libgcc_s_seh-1.dll" />
   </ItemGroup>
 
 </Project>

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Net.Http.Json;
 using System.Text;
 
-namespace Zrutas.Domain.DataStructures.Nodo
+namespace App.Domain.DataStructures.Nodo
 {
     public class NodoSimple<T>
     {

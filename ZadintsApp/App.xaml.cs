@@ -2,10 +2,10 @@
 using System.Data;
 using System.Data.SQLite;
 using System.Windows;
-using ZadintsApp.Utils.DataManager;
-using Zrutas.Config;
-using Zrutas.Domain.Entities.enumerated;
-using Zrutas.Utils.DataStructures;
+using App.Services.Database;
+using App.Config;
+using App.Domain.Entities;
+using App.Services.Theme;
 
 
 namespace ZadintsApp
@@ -27,7 +27,7 @@ namespace ZadintsApp
             {
                 ThemeModel themeModel = new ThemeModel();
                 themeModel.Theme = theme;
-                themeModel.Route = $@"UI\Styles\Theme\{theme.ToString()}.xaml";
+                themeModel.Route = $@"Components\Ui\Theme\{theme.ToString()}.xaml";
 
                 if (theme == actualTheme)
                 {
@@ -39,6 +39,8 @@ namespace ZadintsApp
             }
 
             ThemeManager.ChangeTheme(actualTheme);
+
+
         }
 
 
